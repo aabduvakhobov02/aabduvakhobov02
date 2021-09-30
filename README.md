@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdubori Abduvakhobov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning React JS!
+- 🧐I’m interested in programming
+- 👨‍💻 I’m Junior Front-end React JS developer
+- 🌐 Check out my website: `https://abduvakhobov.web.app/`
 - 📫 How to reach me: aabduvakhobov02@gmail.com
 
 <!---
