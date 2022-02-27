@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdubori Abduvakhobov
-- 👨‍💻 I’m Junior Front-end React JS developer of SET
+- 👨‍💻 I’m React JS software engineer at Software Express Team
 - 🌐 Check out my website: https://abduvakhobov.web.app/
 - 📫 How to reach me: aabduvakhobov02@gmail.com
 
